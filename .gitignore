@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# 环境变量与密钥
+.env
+*.env
+
+# 数据库本地文件（如果以后换 SQLite）
+*.db
+*.sqlite3
+
+# 备份文件
+*.bak
+
+# 系统
+.DS_Store
+Thumbs.db
