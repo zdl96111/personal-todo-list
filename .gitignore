@@ -24,6 +24,11 @@ env/
 # 备份文件
 *.bak
 
+# 测试缓存
+.pytest_cache/
+.coverage
+htmlcov/
+
 # 系统
 .DS_Store
 Thumbs.db
